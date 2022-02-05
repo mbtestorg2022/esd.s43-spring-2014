@@ -24,18 +24,193 @@ Required Readings
 Readings
 --------
 
-| SES # | LECTURE TOPICS | SESSION PRE-READINGS |
-| --- | --- | --- |
-| 1 | Introduction to Green Supply Chain Management | &nbsp; |
-| 2 | Invited Speaker: Gregor Thompson (GENCO) |  {{< br >}}{{< br >}} (1) {{< br >}}{{< br >}}  |
-| 3 | Reverse Logistics / Closing the Loop |  {{< br >}}{{< br >}} (2) & (3) {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} Carbon Footprinting (A. Craig) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} (4) {{< br >}}{{< br >}}  |
-| 5 | Life Cycle Analysis (A. Craig) | (5) & (6) |
-| 6 | Invited Speaker: Martin Wolf – 7th Generation | &nbsp; |
-| 7 | Multi-stakeholder Engagements (A.Bateman) | (7) |
-| 8 | Invited Speaker: EDF | &nbsp; |
-| 9 | Invited Speaker: Noelle Selin – MIT Environmental Policy | (8) & other readings distributed in class |
-| 10 | Green SC Strategy (All) | (9) |
-| 11 | Invited Speaker: Katie Schindall - EMC | &nbsp; |
-| 12 | Final Presentations I | &nbsp; |
-| 13 | Final Presentation II |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+LECTURE TOPICS
+{{< thclose >}}
+{{< thopen >}}
+SESSION PRE-READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Green Supply Chain Management
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Invited Speaker: Gregor Thompson (GENCO)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+(1)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Reverse Logistics / Closing the Loop
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+(2) & (3)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Carbon Footprinting (A. Craig)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+(4)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Life Cycle Analysis (A. Craig)
+{{< tdclose >}}
+{{< tdopen >}}
+(5) & (6)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Invited Speaker: Martin Wolf – 7th Generation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Multi-stakeholder Engagements (A.Bateman)
+{{< tdclose >}}
+{{< tdopen >}}
+(7)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Invited Speaker: EDF
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Invited Speaker: Noelle Selin – MIT Environmental Policy
+{{< tdclose >}}
+{{< tdopen >}}
+(8) & other readings distributed in class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Green SC Strategy (All)
+{{< tdclose >}}
+{{< tdopen >}}
+(9)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Invited Speaker: Katie Schindall - EMC
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Final Presentations I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Final Presentation II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -16,22 +16,147 @@ The paper should critically assess the practices of each company and determine t
 Suggestions for Candidate Companies
 -----------------------------------
 
-| SECTORS | COMPANIES |
-| --- | --- |
-| Consumer Discretionary | BMW |
-| Consumer Discretionary (cont.) | Las Vegas Sands |
-| Consumer Discretionary (cont.) | TJX Companies |
-| Consumer Staples | Diageo |
-| Consumer Staples (cont.) | Philip Morris International |
-| Energy | Chevron |
-| Financials | Goldman Sachs Group |
-| Healthcare | Johnson & Johnson |
-| Industrials | Deutsche Post |
-| Information Technology | Samsung |
-| Information Technology (cont.) | EMC |
-| Materials | Materials |
-| Materials (cont.) | Vale |
-| Telecommunication Services | Endesa 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SECTORS
+{{< thclose >}}
+{{< thopen >}}
+COMPANIES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Consumer Discretionary
+{{< tdclose >}}
+{{< tdopen >}}
+BMW
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Consumer Discretionary (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Las Vegas Sands
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Consumer Discretionary (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+TJX Companies
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Consumer Staples
+{{< tdclose >}}
+{{< tdopen >}}
+Diageo
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Consumer Staples (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Philip Morris International
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Energy
+{{< tdclose >}}
+{{< tdopen >}}
+Chevron
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Financials
+{{< tdclose >}}
+{{< tdopen >}}
+Goldman Sachs Group
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Healthcare
+{{< tdclose >}}
+{{< tdopen >}}
+Johnson & Johnson
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Industrials
+{{< tdclose >}}
+{{< tdopen >}}
+Deutsche Post
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Information Technology
+{{< tdclose >}}
+{{< tdopen >}}
+Samsung
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Information Technology (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+EMC
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Materials
+{{< tdclose >}}
+{{< tdopen >}}
+Materials
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Materials (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Vale
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Telecommunication Services
+{{< tdclose >}}
+{{< tdopen >}}
+Endesa
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Project Deliverables
 --------------------
