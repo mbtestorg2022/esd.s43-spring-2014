@@ -18,13 +18,13 @@ A selection of lecture notes and class videos are provided as follows:
 
 [Lecture 1: Introduction to Green Supply Chain Management (PDF - 1.8MB)]({{< baseurl >}}/resources/mitesd_s43s14_lecture1)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 4: Carbon Footprinting (PDF - 2.0MB)]({{< baseurl >}}/resources/mitesd_s43s14_lecture4)
+[Lecture 4: Carbon Footprinting (PDF - 2.0MB)]({{< baseurl >}}/resources/mitesd_s43s14_lecture4)
 
 [Lecture 5: Life Cycle Analysis (PDF - 1.5MB)]({{< baseurl >}}/resources/mitesd_s43s14_lecture5)
 
 [Lecture 7: Multi-stakeholder Engagements (PDF)]({{< baseurl >}}/resources/mitesd_s43s14_lecture7)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 9: International Regulations and Supply Chains: The Case of Mercury (PDF - 6.0MB)]({{< baseurl >}}/resources/mitesd_s43s14_lecture9)
+[Lecture 9: International Regulations and Supply Chains: The Case of Mercury (PDF - 6.0MB)]({{< baseurl >}}/resources/mitesd_s43s14_lecture9)
 
 {{< video-gallery "5b59a8f9-cd1d-fd8b-0446-00eaae7b3fbb" >}}
 
