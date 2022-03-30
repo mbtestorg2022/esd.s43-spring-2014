@@ -4,6 +4,7 @@ description: This resource contains the information regarding Introduction to Gr
   Supply Chain Management.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-s43-green-supply-chain-management-spring-2014/286574e7e1c54d0dd964811b176d94db_MITESD_S43S14_Lecture1.pdf
 file_type: application/pdf
+parent_uid: 5b59a8f9-cd1d-fd8b-0446-00eaae7b3fbb
 resourcetype: Document
 title: 'Lecture 1: Introduction to Green Supply Chain Management'
 uid: 286574e7-e1c5-4d0d-d964-811b176d94db
